@@ -1,0 +1,50 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : gavinbahr77
+ Repository     : https://github.com/gavinbahr77/Assignment1
+ Commit         : ee01abd  Initial commit
+ Commit author  : Gavin Bahr
+ Generated      : 2026-10-05 17:11:27
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-05 17:11:27   Gavin Bahr
+======================================================================
+ [PASS] Python is installed                        3.14.8
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   5 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.1
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/gavinbahr77/Assignment1
+ [PASS] Your commit is pushed to GitHub            ee01abd
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+
+GGGGG  AAAAA  V       V  IIIII  N   N
+G      A   A   V     V     I    NN  N
+G  GG  AAAAA    V   V      I    N N N
+G   G  A   A     V V       I    N  NN
+GGGGG  A   A      V      IIIII  N   N
+======================================================================
